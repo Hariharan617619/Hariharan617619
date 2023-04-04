@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Hariharan617619
-- 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 Web Development Technology...
+- 🌱 I’m currently learning Front-end Technology...
 
 <!---
 Hariharan617619/Hariharan617619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
